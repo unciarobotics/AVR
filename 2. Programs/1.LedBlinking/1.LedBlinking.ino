@@ -6,7 +6,7 @@
   CONNECTIONS :
   Arduino       LED
   13            +
-  GND             -
+  GND           -
 
   written by
   Ashish Kumar
